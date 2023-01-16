@@ -1,0 +1,21 @@
+body {
+    font-family: monospace, sans-serif;
+    background-color: #d2d4c6;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.content {
+    margin: auto;
+    width: 50%;
+    text-align: center;    
+}
+
+p {
+    color: #000000;
+    font-size: 18px;
+}
+
